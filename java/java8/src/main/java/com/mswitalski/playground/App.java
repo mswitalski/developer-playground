@@ -1,13 +1,12 @@
 package com.mswitalski.playground;
 
 /**
- * Hello world!
- *
+ * Playground for Java 8. *
  */
 public class App 
 {
-    public static void main( String[] args )
+    public static void main(String... args)
     {
-        System.out.println( "Hello World!" );
+        System.out.println("This is Java 8 playground. You're free to test any feature you want!");
     }
 }
